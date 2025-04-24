@@ -1,2 +1,2 @@
-# imc_teste
+# imc-teste
 Calculadora de IMC
